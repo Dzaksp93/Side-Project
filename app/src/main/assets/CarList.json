@@ -1,0 +1,44 @@
+{
+  "Cars": [
+    {
+      "name": "Convertible",
+      "description": "Mobil Convertible adalah mobil kecil dengan atap yang dapat dilipat, sehingga memungkinkan pengguna untuk merubah mobil dari kendaraan yang tertutup ke tipe terbuka . Terdapat dua varian mobil jenis ini - convertible soft top , dimana atap terbuat dari vinyl atau kanvas , dan hard convertible , dimana atap terbuat dari plastik atau baja . Atap ditarik dilipat dan ditempatkan di dalam atau di atas bagasi kendaraan.Beberapa convertible menggunakan lipat manual, sementara yang lain ada yang secara otomatis seprti mobil convertible model sekarang .Kadang-kadang , memisahkan atap bisa menjadi tugas yang membosankan, dan membeli varian power - assisted dapat menghemat banyak masalah .Meskipun sebagian besar convertible dua - seater dan memiliki dua pintu , convertible empat - seater dengan dua atau empat pintu juga tersedia .",
+      "avatar": "@drawable/convertible"
+    },
+    {
+      "name": "Coupe",
+      "description": "Coupe merupakan mobil kecil dengan dua pintu mobil dan dua tempat duduk penumpang (seater), ada juga yang  empat-seater,dengan atap yang biasanya cenderung ke arah belakang. Desain unik dari sebuah coupe empat-seater - dan interior yang relatif sempit dengan jarak antara kursi depan dan belakang berkurang drastis,membuatnya tampak dan terasa seperti versi singkat dari jenis sedan. Sebuah coupe dua tempat duduk, di sisi lain terlihat seperti mobil sport.Anda mungkin mengalami masalah kram pada empat-seater coupe - terutama ketika Anda menduduki kursi belakang.",
+      "avatar": "@drawable/coupe"
+    },
+    {
+      "name": "Hatcback",
+      "description": "Hatchback adalah mobil yang menggabungkan ruang penumpang dengan ruang kargo sedemikian rupa.Mobil-mobil ini biasanya digambarkan sebagai tiga pintu atau lima pintu hatchback, karena adanya pintu tambahan untuk mengakses ruang kargo.Ruang barang dari mobil-mobil menengah dapat diakses dari kursi belakang. Dalam hal ukuran, hatchback berkisar dari mobil subcompact untuk mobil mid-size,dan  keuntungan bagi kendaraan ini akan lebih mudah untuk menggunakannya dalam lalu lintas kota.",
+      "avatar": "@drawable/hatchback"
+    },
+    {
+      "name": "Minivan",
+      "description": "Minivan adalah mobil menengah, lebih tinggi dari sedan atau hatchback, yang paling dikenal adalah interior luas mereka.Mobil-mobil ini juga disebut sebagai kendaraan serbaguna (MPV) atau kendaraan multi-utilitas (MUVs) seperti yang biasa digunakan untuk penumpang serta transportasi barang.Pada beberapa model mobil, kursi bisa dilipat untuk mengubah mobil penumpang ke kendaraan utilitas. Sementara sebagian besar dari mobil-mobil ini adalah roda depan drive,empat wheel drive minivan tidak benar-benar langka. Namun fitur lain yang aneh, di sebagian besar minivan pintu geser yang membuat tugas pemuatan barang jauh nyaman.",
+      "avatar": "@drawable/mpv"
+    },
+    {
+      "name": "Sedan",
+      "description": "Sedan berkisar dari menengah untuk model besar, dan biasanya memiliki dua baris kursi dengan ruang yang cukup, tidak seperti jenis coupe .Sementara dua remaja duduk di kursi belakang coupe akan merasa sedikit sempit, dua orang dewasa dapat mengambil kursi belakang sedan tanpa memiliki perasaan seperti itu - yang membuat mobil ini ideal untuk keluarga.",
+      "avatar": "@drawable/sedan"
+    },
+    {
+      "name": "Sports",
+      "description": "Mobil sport tidak benar-benar perlu perkenalan, kekuatan ini dikemas mobil dua tempat duduk , dirancang khusus untuk jam kecepatan luar biasa , sangat populer di kalangan semua kelompok umur .Fitur mereka menonjol termasuk mesin berotot, terlihat ramping berdasarkan hukum aerodinamika , manuver menakjubkan, kapasitas tempat duduk terbatas dan kurangnya ruang kargo.Meskipun mobil-mobil ini terlihat dan terasa banyak seperti coupe mewah. Mobil sport tidak diragukan lagi mahal, tapi mobil-mobil ini dimaksudkan untuk orang-orang yang tidak suka berkompromi pada kekuasaan.",
+      "avatar": "@drawable/sport"
+    },
+    {
+      "name": "Sport Utility Vehicle",
+      "description": "Kendaraan sport - atau SUV bahwa mereka sering disebut sebagai kendaraan yang dirancang untuk berkendara di jalan biasa serta medan off-road . Di beberapa negara ,SUV juga disebut sebagai kendaraan off road . Fitur menonjol dari SUV termasuk ground clearance yang luar biasa , empat - wheel drive dan styling kasar .Tidak semua kendaraan four-wheel drive memenuhi syarat sebagai SUV juga, karena fitur ini juga terlihat pada jenis kendaraan saat ini.Sementara SUV dan station wagon mungkin tampak identik , fakta bahwa yang terakhir dibangun di atas chassis ringan membedakan keduanya.Kendaraan sport yang lebih dikategorikan menjadi tiga jenis SUV kompak, SUV menengah dan SUV ukuran penuh. Meskipun serbaguna , kendaraan ini dapat dikenakan biaya mahal ketika pemeliharaan . ",
+      "avatar": "@drawable/suv"
+    },
+    {
+      "name": "Station Wagon",
+      "description": "Station wagon adalah kendaraan penumpang yang menampilkan atap yang relatif panjang dan area kargo yang luas di bagian belakang. Meskipun ruang kargo di kendaraan ini kurang dibandingkan dengan minivan,kita tidak dapat mengabaikan fakta bahwa ia memiliki ruang penumpang yang setara dengan sedan . Lima pintu kendaraan - dengan pintu kelima di belakang pemberian akses ke area kargo , juga dilengkapi dengan bukaan pintu yang menjamin pemuatan mudah muat kargo .Meskipun konsep ini mirip dengan hatchback , mobil jenis kedua berbeda satu sama lain - terutama dalam hal ukuran .",
+      "avatar": "@drawable/wagon"
+    }
+  ]
+}
